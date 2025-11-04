@@ -1,0 +1,1 @@
+web: gunicorn tiend_arte_backend.wsgi:application
